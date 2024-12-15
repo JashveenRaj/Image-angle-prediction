@@ -89,12 +89,6 @@ The model was evaluated using standard regression metrics:
 - **Mean Absolute Error (MAE)**: Measures the average magnitude of prediction errors.
 - **Visualization**: Scatter plots of true vs. predicted angles provide a qualitative assessment of model performance.
 
-### Visualization Example
-
-![Graph Representation](Image-angle-prediction/image-and-angle-data/Screenshot 2024-12-15 213619.png)
-
-The above graph provides an example visualization of the scatter plot comparing true vs. predicted angles. It showcases the model's ability to approximate the target values within the limits of the data quality and size.
-
 ## Conclusion and Future Work
 
 This project demonstrates a prototype workflow for predicting prosthetic joint angles from image data. Despite its current limitations, it lays the foundation for future enhancements:
